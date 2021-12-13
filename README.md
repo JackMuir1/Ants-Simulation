@@ -8,3 +8,5 @@ If a predator comes in contact with an ant, it will eat it and take it's space. 
 In addition, there are two other occupants of the world, the rock and the twin bug. The rock is an immovable part of the environment that cannot die, and serves the purpose of taking up space. When two twin bugs make contact with each other, they explode and kill everything one space away from them in all directions, including rocks. 
 
 Users can add organisms through key presses explained in the console window with the simulation.
+
+*Note: There is the capability to play a song during the simulatin under the file "BugSong.mp3", which was too large to be uploaded.
